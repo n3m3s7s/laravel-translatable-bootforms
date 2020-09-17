@@ -1,5 +1,5 @@
 {
-    "name": "propaganistas/laravel-translatable-bootforms",
+    "name": "n3m3s7s/laravel-translatable-bootforms",
     "description": "Empowers adamwathan/bootforms with dimsav/laravel-translatable.",
     "keywords": ["laravel", "bootforms", "translatable", "i18n", "form"],
     "license": "MIT",
